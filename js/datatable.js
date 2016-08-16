@@ -1562,7 +1562,6 @@ DataTable.defaultOptions = {
 
 DataTable.defaultAjaxOptions = {
     url: null,
-    size: null,
     refresh: false,
     allInOne: false,
     timeout: 2000
